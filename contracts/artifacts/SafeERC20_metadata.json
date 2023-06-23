@@ -1,0 +1,71 @@
+{
+	"compiler": {
+		"version": "0.7.4+commit.3f05b770"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Wrappers around ERC20 operations that throw on failure (when the token contract returns false). Tokens that return no value (and instead revert or throw on failure) are also supported, non-reverting calls are assumed to be successful. To use this library you can add a `using SafeERC20 for IERC20;` statement to your contract, which allows you to call the safe operations as `token.safeTransfer(...)`, etc.",
+			"kind": "dev",
+			"methods": {},
+			"title": "SafeERC20",
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/SafeERC20.sol": "SafeERC20"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Address.sol": {
+			"keccak256": "0x2dedf499a72f0b7feb5954f9428af605a7ac21b64c658adc75db89b96dafe6f9",
+			"license": "U-U-U-UPPPPP",
+			"urls": [
+				"bzz-raw://1e9b34e2875aec94fb8c9110d9e152d995fbc28888d2a5cb6bc43cfec5b552ef",
+				"dweb:/ipfs/QmfNyRU71pqrarbyAgtqTN75fdQ9UkLMG3ZWxc85Y1U3Wh"
+			]
+		},
+		"contracts/IERC20.sol": {
+			"keccak256": "0x6f47ed205e275c24b94f6c55a3aedc76cd59b0e7b8b7769f398518a95dde6c04",
+			"license": "U-U-U-UPPPPP",
+			"urls": [
+				"bzz-raw://acee10007569cfe705ca0b76c16d70a1183bb188b58d77fb4a4e54a7f8ec4c88",
+				"dweb:/ipfs/QmQs7mFicdDAZ8PbMfxq8j9NNRK9mk8rKRLnuuxMJuKdXZ"
+			]
+		},
+		"contracts/SafeERC20.sol": {
+			"keccak256": "0x0e896d029a31e64de467856dbfc43a252619ab1377073c8124c79aaceb38df94",
+			"license": "U-U-U-UPPPPP",
+			"urls": [
+				"bzz-raw://768c9fcb9a9052b3c8b4e5bb28738a5158909a40e3577f52ed2c996070c77132",
+				"dweb:/ipfs/QmUEpPEaths5kGy5Txh5NY8CgTUAqmuTq22FhsTQoZa8YX"
+			]
+		},
+		"contracts/SafeMath.sol": {
+			"keccak256": "0x3405c5f6a1c4400ea28b497709a5e572e6ba7459a56d2991c0ed2e1da7619d3e",
+			"license": "U-U-U-UPPPPP",
+			"urls": [
+				"bzz-raw://b9fe454381d61a57d85fc7cfd605f9eac6315601b55cbef747d669c872f565ac",
+				"dweb:/ipfs/QmVaBu7qujhPW8uC3rYZkHtpWQxMubD6hFm8ZRgKH8itYH"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,54 @@
+{
+	"compiler": {
+		"version": "0.8.17+commit.8df45f5f"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"details": "Library used to query support of an interface declared via {IERC165}. Note that these functions return the actual result of the query: they do not `revert` if an interface is not supported. It is up to the caller to decide what to do in these cases.",
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ERC165Checker.sol": "ERC165Checker"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": true,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ERC165Checker.sol": {
+			"keccak256": "0x4b46e57641d9cb2ff0a92bdddf65d7d32455cc2c9ba0da2ee18980faf0db29e5",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a18c3c9be4c5806eba77023b8fad01dffef2563f18f9466f8cbb5328c17b6bae",
+				"dweb:/ipfs/QmYFNU9gaDd6BpmRPNX9BkH19rFBePtEK9MbZm2tMFYCAZ"
+			]
+		},
+		"contracts/IERC165.sol": {
+			"keccak256": "0xa36a31b4bb17fad88d023474893b3b895fa421650543b1ce5aefc78efbd43244",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0f235b9175d95111f301d729566e214c32559e55a2b0579c947484748e20679d",
+				"dweb:/ipfs/QmSsNBuPejy1wNe2u3JSt2p9wFhrjvBjFrnAaNe1nDNkEA"
+			]
+		}
+	},
+	"version": 1
+}

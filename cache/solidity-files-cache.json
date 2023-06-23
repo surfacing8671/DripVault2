@@ -1,0 +1,626 @@
+{
+  "_format": "ethers-rs-sol-cache-3",
+  "paths": {
+    "artifacts": "artifacts",
+    "build_infos": "artifacts/build-info",
+    "sources": "contracts",
+    "tests": "test",
+    "scripts": "script",
+    "libraries": [
+      "lib",
+      "node_modules"
+    ]
+  },
+  "files": {
+    "contracts/Address.sol": {
+      "lastModificationDate": 1675105156899,
+      "contentHash": "059d94823a0a61c585f3b93cff67ad76",
+      "sourceName": "contracts/Address.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": ">=0.6.2, <0.8.0",
+      "artifacts": {
+        "Address": {
+          "0.7.4+commit.3f05b770.Linux.gcc": "Address.sol/Address.0.7.4.json",
+          "0.7.6+commit.7338295f.Linux.gcc": "Address.sol/Address.0.7.6.json"
+        }
+      }
+    },
+    "contracts/Context.sol": {
+      "lastModificationDate": 1675105218078,
+      "contentHash": "b74d20930fbde7bbe062f0149154391e",
+      "sourceName": "contracts/Context.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": ">=0.6.0, <0.8.0",
+      "artifacts": {
+        "Context": {
+          "0.6.12+commit.27d51765.Linux.gcc": "Context.sol/Context.0.6.12.json",
+          "0.7.4+commit.3f05b770.Linux.gcc": "Context.sol/Context.0.7.4.json",
+          "0.7.6+commit.7338295f.Linux.gcc": "Context.sol/Context.0.7.6.json"
+        }
+      }
+    },
+    "contracts/DiamodSafe copy.sol": {
+      "lastModificationDate": 1678081758223,
+      "contentHash": "7ae5c3d8b33dbaae3d4bd827582f5ab9",
+      "sourceName": "contracts/DiamodSafe copy.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "contracts/Address.sol",
+        "contracts/Context.sol",
+        "contracts/IERC20.sol",
+        "contracts/IERC721.sol",
+        "contracts/Ownable.sol",
+        "contracts/ReentrancyGuard.sol",
+        "contracts/SafeERC20.sol",
+        "contracts/SafeMath.sol",
+        "lib/utils/introspection/IERC165.sol"
+      ],
+      "versionRequirement": "=0.7.4",
+      "artifacts": {
+        "DiamondSafe": {
+          "0.7.4+commit.3f05b770.Linux.gcc": "DiamodSafe copy.sol/DiamondSafe.json"
+        }
+      }
+    },
+    "contracts/DiamodSafe.sol": {
+      "lastModificationDate": 1678091432361,
+      "contentHash": "7435d94ec1024927f6226f54815c180a",
+      "sourceName": "contracts/DiamodSafe.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "contracts/Address.sol",
+        "contracts/Context.sol",
+        "contracts/IERC20.sol",
+        "contracts/IERC721.sol",
+        "contracts/Ownable.sol",
+        "contracts/ReentrancyGuard.sol",
+        "contracts/SafeERC20.sol",
+        "contracts/SafeMath.sol",
+        "lib/utils/introspection/IERC165.sol"
+      ],
+      "versionRequirement": "=0.7.4",
+      "artifacts": {
+        "DiamondSafe": {
+          "0.7.4+commit.3f05b770.Linux.gcc": "DiamodSafe.sol/DiamondSafe.json"
+        }
+      }
+    },
+    "contracts/ERC20.sol": {
+      "lastModificationDate": 1675487394418,
+      "contentHash": "e0c57eb896fc69d0311cae745a687ff3",
+      "sourceName": "contracts/ERC20.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "contracts/Context.sol",
+        "contracts/IERC20.sol",
+        "contracts/SafeMath.sol"
+      ],
+      "versionRequirement": ">=0.6.0, <0.8.0",
+      "artifacts": {
+        "ERC20": {
+          "0.6.12+commit.27d51765.Linux.gcc": "ERC20.sol/ERC20.0.6.12.json",
+          "0.7.6+commit.7338295f.Linux.gcc": "ERC20.sol/ERC20.0.7.6.json"
+        }
+      }
+    },
+    "contracts/IERC165.sol": {
+      "lastModificationDate": 1675102564292,
+      "contentHash": "21d3ca406fd55d505c3f8d44424c767e",
+      "sourceName": "contracts/IERC165.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "^0.7.4",
+      "artifacts": {
+        "IERC165": {
+          "0.7.6+commit.7338295f.Linux.gcc": "IERC165.sol/IERC165.json"
+        }
+      }
+    },
+    "contracts/IERC20.sol": {
+      "lastModificationDate": 1675105270697,
+      "contentHash": "9a02a460e2e968db8dd4da7e7915ce3e",
+      "sourceName": "contracts/IERC20.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": ">=0.6.0, <0.8.0",
+      "artifacts": {
+        "IERC20": {
+          "0.6.12+commit.27d51765.Linux.gcc": "IERC20.sol/IERC20.0.6.12.json",
+          "0.7.4+commit.3f05b770.Linux.gcc": "IERC20.sol/IERC20.0.7.4.json",
+          "0.7.6+commit.7338295f.Linux.gcc": "IERC20.sol/IERC20.0.7.6.json"
+        }
+      }
+    },
+    "contracts/IERC721.sol": {
+      "lastModificationDate": 1670053273991,
+      "contentHash": "b7cade0492115329e03287b34ce99396",
+      "sourceName": "contracts/IERC721.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "lib/utils/introspection/IERC165.sol"
+      ],
+      "versionRequirement": "^0.7.4",
+      "artifacts": {
+        "IERC721": {
+          "0.7.4+commit.3f05b770.Linux.gcc": "IERC721.sol/IERC721.0.7.4.json",
+          "0.7.6+commit.7338295f.Linux.gcc": "IERC721.sol/IERC721.0.7.6.json"
+        }
+      }
+    },
+    "contracts/Ownable.sol": {
+      "lastModificationDate": 1675105412375,
+      "contentHash": "295bdb8a37a3eb5827722e27587f44a5",
+      "sourceName": "contracts/Ownable.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "contracts/Context.sol"
+      ],
+      "versionRequirement": ">=0.6.0, <0.8.0",
+      "artifacts": {
+        "Ownable": {
+          "0.7.4+commit.3f05b770.Linux.gcc": "Ownable.sol/Ownable.0.7.4.json",
+          "0.7.6+commit.7338295f.Linux.gcc": "Ownable.sol/Ownable.0.7.6.json"
+        }
+      }
+    },
+    "contracts/ReentrancyGuard.sol": {
+      "lastModificationDate": 1675486986853,
+      "contentHash": "f42c5813fad291b9431ea0ddd4b0323f",
+      "sourceName": "contracts/ReentrancyGuard.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "^0.7.4",
+      "artifacts": {
+        "ReentrancyGuard": {
+          "0.7.4+commit.3f05b770.Linux.gcc": "ReentrancyGuard.sol/ReentrancyGuard.0.7.4.json",
+          "0.7.6+commit.7338295f.Linux.gcc": "ReentrancyGuard.sol/ReentrancyGuard.0.7.6.json"
+        }
+      }
+    },
+    "contracts/SafeERC20.sol": {
+      "lastModificationDate": 1675105622972,
+      "contentHash": "495e0e599dd051419fddb5dc80084a3d",
+      "sourceName": "contracts/SafeERC20.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "contracts/Address.sol",
+        "contracts/IERC20.sol",
+        "contracts/SafeMath.sol"
+      ],
+      "versionRequirement": ">=0.6.0, <0.8.0",
+      "artifacts": {
+        "SafeERC20": {
+          "0.7.4+commit.3f05b770.Linux.gcc": "SafeERC20.sol/SafeERC20.0.7.4.json",
+          "0.7.6+commit.7338295f.Linux.gcc": "SafeERC20.sol/SafeERC20.0.7.6.json"
+        }
+      }
+    },
+    "contracts/SafeMath.sol": {
+      "lastModificationDate": 1675105916995,
+      "contentHash": "c95b16cb1cc083f7c336351c5ce24d36",
+      "sourceName": "contracts/SafeMath.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": ">=0.6.0, <0.8.0",
+      "artifacts": {
+        "SafeMath": {
+          "0.6.12+commit.27d51765.Linux.gcc": "SafeMath.sol/SafeMath.0.6.12.json",
+          "0.7.4+commit.3f05b770.Linux.gcc": "SafeMath.sol/SafeMath.0.7.4.json",
+          "0.7.6+commit.7338295f.Linux.gcc": "SafeMath.sol/SafeMath.0.7.6.json"
+        }
+      }
+    },
+    "contracts/TestToken.sol": {
+      "lastModificationDate": 1675487441502,
+      "contentHash": "0749d50baef8a957fad2df3778c0a66d",
+      "sourceName": "contracts/TestToken.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "contracts/Context.sol",
+        "contracts/ERC20.sol",
+        "contracts/IERC20.sol",
+        "contracts/SafeMath.sol"
+      ],
+      "versionRequirement": "^0.6.0",
+      "artifacts": {
+        "TestToken": {
+          "0.6.12+commit.27d51765.Linux.gcc": "TestToken.sol/TestToken.json"
+        }
+      }
+    },
+    "lib/utils/introspection/IERC165.sol": {
+      "lastModificationDate": 1670053356590,
+      "contentHash": "9bf1bfcebfa66be096224a1cf442d307",
+      "sourceName": "lib/utils/introspection/IERC165.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "^0.7.4",
+      "artifacts": {
+        "IERC165": {
+          "0.7.4+commit.3f05b770.Linux.gcc": "IERC165.sol/IERC165.0.7.4.json",
+          "0.7.6+commit.7338295f.Linux.gcc": "IERC165.sol/IERC165.0.7.6.json"
+        }
+      }
+    }
+  }
+}
