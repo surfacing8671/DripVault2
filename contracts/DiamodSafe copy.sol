@@ -42,9 +42,10 @@ contract DiamondSafe is Ownable, ReentrancyGuard {
     // Store the total drip pool balance and rate
     uint public dripPoolBalance;
     uint8 public dripRate;
+    IERC20 public rewardToken;
 
     // 10% fee on deposit and withdrawal
-    uint8 internal constant divsFee = 10;
+    uint8 internal constant divsFee = 3;
     uint256 internal constant magnitude = 2 ** 64;
 
     // How many portions of the fees does each receiver get?
@@ -84,6 +85,7 @@ contract DiamondSafe is Ownable, ReentrancyGuard {
 
     struct Account {
         uint deposited;
+        uint rewards;
         uint withdrawn;
         uint compounded;
         uint rewarded;
@@ -161,12 +163,12 @@ contract DiamondSafe is Ownable, ReentrancyGuard {
     $$ CONSTRUCTOR                    $$
     $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$*/
 
-    constructor(address _tokenAddress, uint8 _dripRate) Ownable() {
+    constructor(address _tokenAddress, address _rewardToken, uint8 _dripRate) Ownable() {
         require(
             _tokenAddress != address(0) && Address.isContract(_tokenAddress),
             "INVALID_ADDRESS"
         );
-
+        rewardToken = IERC20(_rewardToken);
         tokenAddress = _tokenAddress;
         stakingToken = IERC20(_tokenAddress);
 
@@ -177,8 +179,8 @@ contract DiamondSafe is Ownable, ReentrancyGuard {
         lastPayout = (block.timestamp);
 
         // Fee portions
-        forPool = 8;
-        forDivs = 2;
+        forPool = 2;
+        forDivs = 1;
 
         requiredBalance = 1;
     }
@@ -199,7 +201,7 @@ contract DiamondSafe is Ownable, ReentrancyGuard {
     // Donate
     function donate(uint _amount) public returns (uint256) {
         // Move the tokens from the caller's wallet to this contract.
-        require(stakingToken.transferFrom(msg.sender, address(this), _amount));
+        require(rewardToken.transferFrom(msg.sender, address(this), _amount));
 
         // Add the tokens to the drip pool balance
         dripPoolBalance += _amount;
@@ -444,7 +446,7 @@ contract DiamondSafe is Ownable, ReentrancyGuard {
         uint256 _pool,
         uint256 _divs
     ) public onlyOwner returns (bool _success) {
-        require(_pool.add(_divs) == 10, "TEN_PORTIONS_REQUIRE_DIVISION");
+        require(_pool.add(_divs) == 3, "TEN_PORTIONS_REQUIRE_DIVISION");
 
         // Set the new values...
         forPool = _pool;

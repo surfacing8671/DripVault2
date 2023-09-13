@@ -1,0 +1,1231 @@
+Account data for address: 	 0x00649966bedbf78c6e6d101ae29c14c852e9aa03
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 109499.99999999999
+
+-----------------------------------------
+Account data for address: 	 0x07f584211b255273ab3bad9f57124b339afe3d54
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 68000
+
+Amount of tokens locked for duration 	  63072000	 -->	 100956
+
+-----------------------------------------
+Account data for address: 	 0x09e8b32693365634ea24870eb1c23390fce04e72
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 5000
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x0cf17da8dafaa4925b142dfd6ed46e56fa04df0a
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 27072.81059502917
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x0e45286a3724edb5dd1b01cda2d7c3f9f7f1a639
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 49999.99999999999
+
+-----------------------------------------
+Account data for address: 	 0x0f55730b5e34167aaf418050c0a1e52556041e55
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 445553
+
+-----------------------------------------
+Account data for address: 	 0x0f71d5fcff66f54954aff56b858d59667dc42e21
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x103bafc2989ecb0aece6bcd3d653c3ad3e87c6ea
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 20001.100000000002
+
+-----------------------------------------
+Account data for address: 	 0x12fe999052b5779fe5a8266c363462bbe38626cd
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 4146.313195386916
+
+-----------------------------------------
+Account data for address: 	 0x172a25d57da59ab86792fb8ced103ad871cbef34
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x196e10464b27951ae775a667b457bb7ed409f771
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 166611.36572200202
+
+-----------------------------------------
+Account data for address: 	 0x1f88b983a6b8e7a03d70910fb293b1507b0ab096
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 73851.6000107498
+
+-----------------------------------------
+Account data for address: 	 0x2184ffb9d9b087f3ff91c90b438d11026fc42316
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 3541.057599940725
+
+Amount of tokens locked for duration 	  63072000	 -->	 14245.070145659776
+
+-----------------------------------------
+Account data for address: 	 0x253739fd16f90d63382a6e2666428ffef72cf645
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 332579.3428520521
+
+-----------------------------------------
+Account data for address: 	 0x272d63f6e2f6398f3724bf70541137d2e329b030
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 10000
+
+Amount of tokens locked for duration 	  31536000	 -->	 109381.58315808662
+
+Amount of tokens locked for duration 	  63072000	 -->	 146000
+
+-----------------------------------------
+Account data for address: 	 0x29632ded3afa96f2efe8b4c306c201c84dc40601
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 1000
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x2a65da2b843250eff9524dae519039e2aa344807
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 178500.00000000003
+
+-----------------------------------------
+Account data for address: 	 0x2ac35a949f2029054fbb3b98e2fef0fa53cf18bd
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 26535.95401972896
+
+-----------------------------------------
+Account data for address: 	 0x2f58ad6678e1afb3d99e33478da6ca30a6a3f46c
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 25000.496094160088
+
+-----------------------------------------
+Account data for address: 	 0x30036ff2e84dd47e1de39c5873187422641d9b03
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 1000
+
+-----------------------------------------
+Account data for address: 	 0x30930d7e95a659ad61727a9f0ceb5f10056303f8
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 1006.6596940902314
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x325340a3623684b510378628d2650822565ab4cc
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 1000.3892152007572
+
+-----------------------------------------
+Account data for address: 	 0x32b050b0d585912a24adcc0debbc89b3055ed31c
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 7899.424094086134
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x3475d021f2d2d0a845751dc33c766febbd1986f3
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 7643.332409657154
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x34bd9c01ce957585e3f80a5523b963b3eeef07e4
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 3872.3116029762773
+
+-----------------------------------------
+Account data for address: 	 0x380be068614e9c462508f2b7954ebc36ca46c0f1
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 8676.238046719003
+
+Amount of tokens locked for duration 	  63072000	 -->	 1000
+
+-----------------------------------------
+Account data for address: 	 0x384c0bc1d0ebfbbd2a3fa2ba5e9e365a8b79bc20
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 2449.3557520631184
+
+-----------------------------------------
+Account data for address: 	 0x3863a6b2a7b0daf5fcde64358bea09943cdf079e
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 1120.6122430611736
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 36562.38289511027
+
+-----------------------------------------
+Account data for address: 	 0x388d408d9df29e47fc8a247122c48f1b55341b74
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 1063.390254579084
+
+-----------------------------------------
+Account data for address: 	 0x3918affbdfeaa9d2e7b06aae813a3d194a12086d
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 223390
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x3c834a5ad1a0a58ea21195176c6058c3435fe9bc
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 58199.317867108504
+
+-----------------------------------------
+Account data for address: 	 0x3d7eab44504bdee7c29313fe36671ac3c1da4aef
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 20000
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x41be81c72cca61459ef9daff25f56b16cfd6f38c
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 1000
+
+-----------------------------------------
+Account data for address: 	 0x41c14d22d4fe77e80e755f50e155400aa15c2a92
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 5000
+
+Amount of tokens locked for duration 	  63072000	 -->	 24999.999999999996
+
+-----------------------------------------
+Account data for address: 	 0x41d7059fa2b6aca2a30478fc0558f877c2898dfc
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 18378.31837707988
+
+-----------------------------------------
+Account data for address: 	 0x4384276ebd69548bad148fc9eec90de167a0c37d
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 1224.2291757393484
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x441bf4e439f952e34578ef98c76930aae8f38549
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x46b94710620d3e5626c5192aa80d2b362781997a
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 1000000
+
+-----------------------------------------
+Account data for address: 	 0x47d4dc3e01b9837f054dcf8a036c050ecc1987b5
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 4589.950537837423
+
+-----------------------------------------
+Account data for address: 	 0x481099ee45575edb56a4c80a89434ad4915a0102
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 16000
+
+-----------------------------------------
+Account data for address: 	 0x497ce401adaf3d32d9444f6a195ce310ebe306b0
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 21924.642124612597
+
+-----------------------------------------
+Account data for address: 	 0x4c46148a2f7d498189477bc25df4ded7bd2bb6e9
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x4cd863e70fea26e7f07208eb12d0d0fbfd986cc0
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 42784.00000000001
+
+-----------------------------------------
+Account data for address: 	 0x514c3c2ee2a980fb2d50fd47ef4316a875f37c0d
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 7264.7827755627795
+
+Amount of tokens locked for duration 	  63072000	 -->	 20062.1473457717
+
+-----------------------------------------
+Account data for address: 	 0x524c0a0b45522e837e61e2eb1969a613d4511ee8
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 1000
+
+-----------------------------------------
+Account data for address: 	 0x578611e5c40e40f1fac3b0d83fd3ca02f27c7a75
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 303589.5682154485
+
+-----------------------------------------
+Account data for address: 	 0x578614c2aa2f1921b493ede7b7c5236a1efd961e
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 12250
+
+Amount of tokens locked for duration 	  63072000	 -->	 197653.72561574285
+
+-----------------------------------------
+Account data for address: 	 0x599f4382c116f13542b578f51ac488eea16a8849
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 1000
+
+-----------------------------------------
+Account data for address: 	 0x5abbf6ab860577e89c0483cf141e300bf8b74250
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 103017.32246053156
+
+-----------------------------------------
+Account data for address: 	 0x5f775e037901ecf4b996f869b75b3fddf173c416
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 34603.18126963494
+
+-----------------------------------------
+Account data for address: 	 0x6524401bec5e3d0f53f4255a2468b78cd355313a
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 2000
+
+-----------------------------------------
+Account data for address: 	 0x6781490a53d518265055bb3e127422348b8d6962
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x688aad2ffb4075d12e4adac2558feb3f915c2c95
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 4202.401691541757
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x6c1d8596f7741d053b068261834d8f76a85ac758
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x756724ecdbbb8f59095888d4685bac9012190f46
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 10159.753170539161
+
+-----------------------------------------
+Account data for address: 	 0x783771127632dc8b89b44a22752777c8923c84f2
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 1307.3011141779791
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x78795d1f3b2cd0efa0f721c31d67eebbe5bd4364
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 10132.987945123154
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x7b9b7a27a422c0921d5c158c8712b2747fe33ac1
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 1217.7386973333632
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x7d4fc5c5d8612c686ddeef7be71910db08098144
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 1000
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x80319accf5206894ee9f67cd4e5eb167f10bf200
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 2525.8233575644663
+
+-----------------------------------------
+Account data for address: 	 0x85f6b07a7921a68d10ace4400432cf4a4c5c08b9
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 10000
+
+Amount of tokens locked for duration 	  63072000	 -->	 5000
+
+-----------------------------------------
+Account data for address: 	 0x87766e649341eb56e4f6e8a58594064c982a878f
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 1023.5850500243008
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x87cbd399440130d50de9a780388524ebb95bca20
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 1000
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x88788e2c2d5f3362a8ab63e6a2e00a742fa946a2
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 20291.65005787037
+
+Amount of tokens locked for duration 	  63072000	 -->	 100143.10639347867
+
+-----------------------------------------
+Account data for address: 	 0x8fee41eebb2572e8c0820bbe02a16de358ba214c
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 1634997
+
+-----------------------------------------
+Account data for address: 	 0x9042266c00d6fe1975f0a24d4564bd34fb362d07
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 2407.510628038462
+
+-----------------------------------------
+Account data for address: 	 0x90b0edc71b95025ef65ca350350dd47bfcc06b5b
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 100490.09475214868
+
+-----------------------------------------
+Account data for address: 	 0x912d8284284286d2c21dd2f069729c49bcf0c602
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x93e69de6b3355ef031a8edc81e56a676f9b68538
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 2132
+
+-----------------------------------------
+Account data for address: 	 0x945318cefd5dfa3785e75f2e78270a39aa43e69d
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 23123.009795342954
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 37433.29109492842
+
+-----------------------------------------
+Account data for address: 	 0x94693cab64781863eb5ac40486bccef57ee75f75
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 1000
+
+-----------------------------------------
+Account data for address: 	 0x971541c1f8368957411980354ce966dd4a27e0e3
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 550000
+
+-----------------------------------------
+Account data for address: 	 0x987b81b9550c5808b31b905d8a62a28a240771e0
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 45444.30364827815
+
+-----------------------------------------
+Account data for address: 	 0x9cb51ea842d30ce8363b98487e552c191a5e968c
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 1003.7749525787787
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0x9ef80b4dc17d5bb164caf7ea4dc3eb72949943da
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 23022.999999999996
+
+-----------------------------------------
+Account data for address: 	 0x9f0c0a1fbea4bcc2d612df74d308f9754b77166a
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 1202.5630698757357
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0xa2d767629ef6aafb33a2c072ef067098a0e8e639
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 1694.6969030042096
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0xa32079fb613bd35159face5251695e658c1be35c
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 13938.182005497418
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0xa54710a4d6a2ee9cf0803a4624e3e5e1de90c6d3
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0xa650c44cfacc2ed41fae91ef3fed75422af8f4e9
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 744218.9999999999
+
+-----------------------------------------
+Account data for address: 	 0xaa3556436ad11776291c5f9995c18dae8ecc91f5
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 5962.767704483223
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0xb1eb4cd2c5e21d0da87cfb0270ccf84e3266d6f0
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 56184.99999999999
+
+-----------------------------------------
+Account data for address: 	 0xb6ce120905c7fba534bda1a574e58037a5c0aead
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 2640.6940268709855
+
+-----------------------------------------
+Account data for address: 	 0xb76e0a38519afe6d7dcaf57adcd385b33d0b4ed8
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 1000
+
+-----------------------------------------
+Account data for address: 	 0xbab858be4ad6f040b70d1dd55188078d3dad821b
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 1300
+
+-----------------------------------------
+Account data for address: 	 0xbee69145524cc53e134ec1ebd9af36678dce5bbd
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 20400
+
+-----------------------------------------
+Account data for address: 	 0xbf2bf0f8450b04caf81471f1f91fe77e37489ba7
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 49999.99999999999
+
+-----------------------------------------
+Account data for address: 	 0xc21703d3510e5ae61c5849c7cada24b39c0ab862
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 16617.66124661899
+
+-----------------------------------------
+Account data for address: 	 0xc2315631e9dcae4bf6720bd3caa128cf454d4a2b
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 11000
+
+-----------------------------------------
+Account data for address: 	 0xc265a526f733d4554740ea7d6c846e7263020685
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 2120.063940187852
+
+-----------------------------------------
+Account data for address: 	 0xc634c241596e165eb28791e310f86169238be355
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 6058.956956141836
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0xc6d1bd5003de5fb4d725530f4b455cad0df24980
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 2231
+
+Amount of tokens locked for duration 	  15552000	 -->	 1148
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0xc9a8659e72ec83598f8660f813348ba5c291d36f
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 130000
+
+-----------------------------------------
+Account data for address: 	 0xcf066b771e77391e5cf9cc6fe69ceaced15d863d
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 1000
+
+-----------------------------------------
+Account data for address: 	 0xcfee857a7b92d9ef40264f7b7e266eced077d3cb
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 30549.815389384
+
+-----------------------------------------
+Account data for address: 	 0xd125eda1eb2fa6f3ac0f6f27682efacfc4008219
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0xd5c28d99e7a7078734c2e8d246366f0779000b22
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0xdce6e664ab25fa93ed0e364528af5b02d97476ff
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 1000
+
+-----------------------------------------
+Account data for address: 	 0xe1a7fc20a848ee97d2218a6e9c1ecf11194e017e
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 13068.53852422815
+
+-----------------------------------------
+Account data for address: 	 0xe1e7c00bd299cadb5e22d6976368da29988ed0e9
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 1049.2623506845252
+
+-----------------------------------------
+Account data for address: 	 0xe63c9580f032047883eac063e3f0b700033b823a
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 8000
+
+-----------------------------------------
+Account data for address: 	 0xea4b19449de124e33083eb8cb2b53964e2d27d9c
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 1001
+
+-----------------------------------------
+Account data for address: 	 0xeded1d2e43cebdd3f966869053269e94bd672559
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 2000
+
+-----------------------------------------
+Account data for address: 	 0xee50f09f5426ce288a17cd228187108d8906c6bc
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 20591.587003703706
+
+-----------------------------------------
+Account data for address: 	 0xee613ca7e8e948509dce6ea6901a6cfe4702ba33
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 5184.356030711717
+
+-----------------------------------------
+Account data for address: 	 0xf254a3efdff614aee3e9d83b5724c0bef6a7be6e
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 20568.882353251887
+
+Amount of tokens locked for duration 	  63072000	 -->	 30371.14071959925
+
+-----------------------------------------
+Account data for address: 	 0xf38d029be0e30a21bc0a6749a9a7f21079046a46
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 75032.3259008792
+
+-----------------------------------------
+Account data for address: 	 0xf5ec5f3bdda4a1802358ee9a2dbba262dd29a7bc
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 200500
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+
+-----------------------------------------
+Account data for address: 	 0xfc33a26b70cc399e48a2e1e20454a2813551b7b8
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 35000
+
+-----------------------------------------
+Account data for address: 	 0xfc5a5442b62d0711e1ec2196fae61e94002ce042
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 20002.439315163338
+
+-----------------------------------------
+Account data for address: 	 0xfc7bb93d64cd48d5754830b70630d9ee89c87c44
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 0
+
+Amount of tokens locked for duration 	  63072000	 -->	 23964.740970029117
+
+-----------------------------------------
+Account data for address: 	 0xfe8a7ea97a4990298fde17897bf33b299aefc4f0
+-----------------------------------------
+Amount of tokens locked for duration 	  7776000	 -->	 0
+
+Amount of tokens locked for duration 	  15552000	 -->	 0
+
+Amount of tokens locked for duration 	  31536000	 -->	 3547.1968992904913
+
+Amount of tokens locked for duration 	  63072000	 -->	 0
+

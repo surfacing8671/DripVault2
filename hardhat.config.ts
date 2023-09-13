@@ -86,7 +86,7 @@ const config: HardhatUserConfig = {
     hardhat: {},
     
    cronos: {
-    url: 'https://cronos.w3node.com/d3dbc3cd07eb98b59341a8b2150660ba3efc8e65082331c55c75c01479189200/api',
+    url: 'https://cronos-evm.publicnode.com',
     accounts: [`0x${PRIVATE_KEY}`],
     chainId: 25,  
    //gasPrice: 5000000000000000,

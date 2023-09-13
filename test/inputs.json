@@ -1,0 +1,62 @@
+{
+    "name": "zapIn",
+    "params": [
+     {
+      "name": "depositParams",
+      "value": [
+       [
+        "0x30eA22C879628514f1494d4BBFEF79D21A6B49A2",
+        "-350",
+        "-150"
+       ],
+       "30647420028664063710",
+       "38820400000000000000",
+       "28883542190587877872",
+       "37096977351596685377",
+       "1689259415",
+       "0x85d74963e011088e8fACD733867cef9E92DF5d1a"
+      ],
+      "type": "tuple"
+     },
+     {
+      "name": "gauge",
+      "value": "0xb98fe645c7e2c39b726747dcb72848a9fd8c425f",
+      "type": "address"
+     },
+     {
+      "name": "token0",
+      "value": "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2",
+      "type": "address"
+     },
+     {
+      "name": "token1",
+      "value": "0xf951e335afb289353dc249e82926178eac7ded78",
+      "type": "address"
+     },
+     {
+      "name": "recipient",
+      "value": "0x85d74963e011088e8facd733867cef9e92df5d1a",
+      "type": "address"
+     },
+     {
+      "name": "sharesMin",
+      "value": "6900680148465115903561",
+      "type": "uint256"
+     },
+     {
+      "name": "useContractBalance0",
+      "value": true,
+      "type": "bool"
+     },
+     {
+      "name": "useContractBalance1",
+      "value": false,
+      "type": "bool"
+     },
+     {
+      "name": "compound",
+      "value": false,
+      "type": "bool"
+     }
+    ]
+   }

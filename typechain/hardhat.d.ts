@@ -37,6 +37,42 @@ declare module "hardhat/types/runtime" {
       signerOrOptions?: ethers.Signer | FactoryOptions
     ): Promise<Contracts.IERC721__factory>;
     getContractFactory(
+      name: "BaseBoringBatchable",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.BaseBoringBatchable__factory>;
+    getContractFactory(
+      name: "BoringBatchable",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.BoringBatchable__factory>;
+    getContractFactory(
+      name: "BoringOwnable",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.BoringOwnable__factory>;
+    getContractFactory(
+      name: "BoringOwnableData",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.BoringOwnableData__factory>;
+    getContractFactory(
+      name: "IERC20",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.IERC20__factory>;
+    getContractFactory(
+      name: "IMasterChef",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.IMasterChef__factory>;
+    getContractFactory(
+      name: "IMigratorChef",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.IMigratorChef__factory>;
+    getContractFactory(
+      name: "IRewarder",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.IRewarder__factory>;
+    getContractFactory(
+      name: "MiniChefV2",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.MiniChefV2__factory>;
+    getContractFactory(
       name: "Ownable",
       signerOrOptions?: ethers.Signer | FactoryOptions
     ): Promise<Contracts.Ownable__factory>;
@@ -45,9 +81,61 @@ declare module "hardhat/types/runtime" {
       signerOrOptions?: ethers.Signer | FactoryOptions
     ): Promise<Contracts.TestToken__factory>;
     getContractFactory(
+      name: "DiamondSafe",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.DiamondSafe__factory>;
+    getContractFactory(
+      name: "DiamondSafe",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.DiamondSafe__factory>;
+    getContractFactory(
       name: "IERC165",
       signerOrOptions?: ethers.Signer | FactoryOptions
     ): Promise<Contracts.IERC165__factory>;
+    getContractFactory(
+      name: "IERC165",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.IERC165__factory>;
+    getContractFactory(
+      name: "BaseBoringBatchable",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.BaseBoringBatchable__factory>;
+    getContractFactory(
+      name: "BoringBatchable",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.BoringBatchable__factory>;
+    getContractFactory(
+      name: "BoringOwnable",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.BoringOwnable__factory>;
+    getContractFactory(
+      name: "BoringOwnableData",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.BoringOwnableData__factory>;
+    getContractFactory(
+      name: "IERC20",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.IERC20__factory>;
+    getContractFactory(
+      name: "IMasterChef",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.IMasterChef__factory>;
+    getContractFactory(
+      name: "IMigratorChef",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.IMigratorChef__factory>;
+    getContractFactory(
+      name: "IRewarder",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.IRewarder__factory>;
+    getContractFactory(
+      name: "MiniChefV2",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.MiniChefV2__factory>;
+    getContractFactory(
+      name: "TestToken",
+      signerOrOptions?: ethers.Signer | FactoryOptions
+    ): Promise<Contracts.TestToken__factory>;
 
     getContractAt(
       name: "DiamondSafe",
@@ -80,6 +168,51 @@ declare module "hardhat/types/runtime" {
       signer?: ethers.Signer
     ): Promise<Contracts.IERC721>;
     getContractAt(
+      name: "BaseBoringBatchable",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.BaseBoringBatchable>;
+    getContractAt(
+      name: "BoringBatchable",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.BoringBatchable>;
+    getContractAt(
+      name: "BoringOwnable",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.BoringOwnable>;
+    getContractAt(
+      name: "BoringOwnableData",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.BoringOwnableData>;
+    getContractAt(
+      name: "IERC20",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.IERC20>;
+    getContractAt(
+      name: "IMasterChef",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.IMasterChef>;
+    getContractAt(
+      name: "IMigratorChef",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.IMigratorChef>;
+    getContractAt(
+      name: "IRewarder",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.IRewarder>;
+    getContractAt(
+      name: "MiniChefV2",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.MiniChefV2>;
+    getContractAt(
       name: "Ownable",
       address: string,
       signer?: ethers.Signer
@@ -90,10 +223,75 @@ declare module "hardhat/types/runtime" {
       signer?: ethers.Signer
     ): Promise<Contracts.TestToken>;
     getContractAt(
+      name: "DiamondSafe",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.DiamondSafe>;
+    getContractAt(
+      name: "DiamondSafe",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.DiamondSafe>;
+    getContractAt(
       name: "IERC165",
       address: string,
       signer?: ethers.Signer
     ): Promise<Contracts.IERC165>;
+    getContractAt(
+      name: "IERC165",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.IERC165>;
+    getContractAt(
+      name: "BaseBoringBatchable",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.BaseBoringBatchable>;
+    getContractAt(
+      name: "BoringBatchable",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.BoringBatchable>;
+    getContractAt(
+      name: "BoringOwnable",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.BoringOwnable>;
+    getContractAt(
+      name: "BoringOwnableData",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.BoringOwnableData>;
+    getContractAt(
+      name: "IERC20",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.IERC20>;
+    getContractAt(
+      name: "IMasterChef",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.IMasterChef>;
+    getContractAt(
+      name: "IMigratorChef",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.IMigratorChef>;
+    getContractAt(
+      name: "IRewarder",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.IRewarder>;
+    getContractAt(
+      name: "MiniChefV2",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.MiniChefV2>;
+    getContractAt(
+      name: "TestToken",
+      address: string,
+      signer?: ethers.Signer
+    ): Promise<Contracts.TestToken>;
 
     // default types
     getContractFactory(

@@ -1033,7 +1033,7 @@
 			"bytecodeHash": "ipfs"
 		},
 		"optimizer": {
-			"enabled": false,
+			"enabled": true,
 			"runs": 200
 		},
 		"remappings": []
@@ -1056,11 +1056,11 @@
 			]
 		},
 		"contracts/DiamodSafe.sol": {
-			"keccak256": "0x1ad2240f97cbe8d5aed1e3bb2b100bb20e73f00973f3267bb5daeb493de37c8f",
+			"keccak256": "0x5204fc05d736c54fed0040bd8d830de3f89e77b4084e1065f9f0dee0a3a0aee3",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://6b1939d6515a002ac2159bdb14bf0e2d0b3c376e1f61b42979990d26aeed02d4",
-				"dweb:/ipfs/QmY5DrkY82xR5DfFRbZxMUQSpqGcYeAWbwo3kiH3jHxUHK"
+				"bzz-raw://88d94bb67c728b7f9385bb4cad72aac694d29efbe5ae63e89ca34ee4ab96141a",
+				"dweb:/ipfs/QmdvBZGZKm95WwVwp8cvukbkcGoTwBx555EDC4MwFQ6QiD"
 			]
 		},
 		"contracts/IERC20.sol": {

@@ -1,8 +1,8 @@
 {
   "_format": "ethers-rs-sol-cache-3",
   "paths": {
-    "artifacts": "artifacts",
-    "build_infos": "artifacts/build-info",
+    "artifacts": "out",
+    "build_infos": "out/build-info",
     "sources": "contracts",
     "tests": "test",
     "scripts": "script",
@@ -23,6 +23,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -40,7 +41,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -64,6 +65,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -81,7 +83,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -96,8 +98,8 @@
       }
     },
     "contracts/DiamodSafe copy.sol": {
-      "lastModificationDate": 1678081758223,
-      "contentHash": "7ae5c3d8b33dbaae3d4bd827582f5ab9",
+      "lastModificationDate": 1690315030945,
+      "contentHash": "7cf9a467deeee3deb93dd376d06a6f68",
       "sourceName": "contracts/DiamodSafe copy.sol",
       "solcConfig": {
         "settings": {
@@ -106,6 +108,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -123,7 +126,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -146,8 +149,8 @@
       }
     },
     "contracts/DiamodSafe.sol": {
-      "lastModificationDate": 1678091432361,
-      "contentHash": "7435d94ec1024927f6226f54815c180a",
+      "lastModificationDate": 1690992487245,
+      "contentHash": "08bff7805293c1cf069529b07d099712",
       "sourceName": "contracts/DiamodSafe.sol",
       "solcConfig": {
         "settings": {
@@ -156,6 +159,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -173,7 +177,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -196,7 +200,7 @@
       }
     },
     "contracts/ERC20.sol": {
-      "lastModificationDate": 1675487394418,
+      "lastModificationDate": 1690311891554,
       "contentHash": "e0c57eb896fc69d0311cae745a687ff3",
       "sourceName": "contracts/ERC20.sol",
       "solcConfig": {
@@ -206,6 +210,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -223,7 +228,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -251,6 +256,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -268,7 +274,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -291,6 +297,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -308,7 +315,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -333,6 +340,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -350,7 +358,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -365,10 +373,10 @@
         }
       }
     },
-    "contracts/Ownable.sol": {
-      "lastModificationDate": 1675105412375,
-      "contentHash": "295bdb8a37a3eb5827722e27587f44a5",
-      "sourceName": "contracts/Ownable.sol",
+    "contracts/MC.sol": {
+      "lastModificationDate": 1690377634822,
+      "contentHash": "0c17d0a08ef33a4e8061d040518aa8e3",
+      "sourceName": "contracts/MC.sol",
       "solcConfig": {
         "settings": {
           "optimizer": {
@@ -376,6 +384,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -393,7 +402,90 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": "=0.6.12",
+      "artifacts": {
+        "BaseBoringBatchable": {
+          "0.6.12+commit.27d51765.Linux.gcc": "MC.sol/BaseBoringBatchable.json"
+        },
+        "BoringBatchable": {
+          "0.6.12+commit.27d51765.Linux.gcc": "MC.sol/BoringBatchable.json"
+        },
+        "BoringERC20": {
+          "0.6.12+commit.27d51765.Linux.gcc": "MC.sol/BoringERC20.json"
+        },
+        "BoringMath": {
+          "0.6.12+commit.27d51765.Linux.gcc": "MC.sol/BoringMath.json"
+        },
+        "BoringMath128": {
+          "0.6.12+commit.27d51765.Linux.gcc": "MC.sol/BoringMath128.json"
+        },
+        "BoringMath32": {
+          "0.6.12+commit.27d51765.Linux.gcc": "MC.sol/BoringMath32.json"
+        },
+        "BoringMath64": {
+          "0.6.12+commit.27d51765.Linux.gcc": "MC.sol/BoringMath64.json"
+        },
+        "BoringOwnable": {
+          "0.6.12+commit.27d51765.Linux.gcc": "MC.sol/BoringOwnable.json"
+        },
+        "BoringOwnableData": {
+          "0.6.12+commit.27d51765.Linux.gcc": "MC.sol/BoringOwnableData.json"
+        },
+        "IERC20": {
+          "0.6.12+commit.27d51765.Linux.gcc": "MC.sol/IERC20.json"
+        },
+        "IMasterChef": {
+          "0.6.12+commit.27d51765.Linux.gcc": "MC.sol/IMasterChef.json"
+        },
+        "IMigratorChef": {
+          "0.6.12+commit.27d51765.Linux.gcc": "MC.sol/IMigratorChef.json"
+        },
+        "IRewarder": {
+          "0.6.12+commit.27d51765.Linux.gcc": "MC.sol/IRewarder.json"
+        },
+        "MiniChefV2": {
+          "0.6.12+commit.27d51765.Linux.gcc": "MC.sol/MiniChefV2.json"
+        },
+        "SignedSafeMath": {
+          "0.6.12+commit.27d51765.Linux.gcc": "MC.sol/SignedSafeMath.json"
+        }
+      }
+    },
+    "contracts/Ownable.sol": {
+      "lastModificationDate": 1675105412375,
+      "contentHash": "295bdb8a37a3eb5827722e27587f44a5",
+      "sourceName": "contracts/Ownable.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "useLiteralContent": false,
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -419,6 +511,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -436,7 +529,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -460,6 +553,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -477,7 +571,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -505,6 +599,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -522,7 +617,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -537,7 +632,7 @@
       }
     },
     "contracts/TestToken.sol": {
-      "lastModificationDate": 1675487441502,
+      "lastModificationDate": 1690315436372,
       "contentHash": "0749d50baef8a957fad2df3778c0a66d",
       "sourceName": "contracts/TestToken.sol",
       "solcConfig": {
@@ -547,6 +642,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -564,7 +660,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -592,6 +688,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -609,7 +706,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },

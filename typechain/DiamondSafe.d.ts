@@ -49,6 +49,7 @@ interface DiamondSafeInterface extends ethers.utils.Interface {
     "rebaseFrequency()": FunctionFragment;
     "renounceOwnership()": FunctionFragment;
     "requiredBalance()": FunctionFragment;
+    "rewardToken()": FunctionFragment;
     "sellPrice()": FunctionFragment;
     "setFeeSplit(uint256,uint256)": FunctionFragment;
     "setImmunityToken(address[])": FunctionFragment;
@@ -140,6 +141,10 @@ interface DiamondSafeInterface extends ethers.utils.Interface {
   ): string;
   encodeFunctionData(
     functionFragment: "requiredBalance",
+    values?: undefined
+  ): string;
+  encodeFunctionData(
+    functionFragment: "rewardToken",
     values?: undefined
   ): string;
   encodeFunctionData(functionFragment: "sellPrice", values?: undefined): string;
@@ -256,6 +261,10 @@ interface DiamondSafeInterface extends ethers.utils.Interface {
   ): Result;
   decodeFunctionResult(
     functionFragment: "requiredBalance",
+    data: BytesLike
+  ): Result;
+  decodeFunctionResult(
+    functionFragment: "rewardToken",
     data: BytesLike
   ): Result;
   decodeFunctionResult(functionFragment: "sellPrice", data: BytesLike): Result;
@@ -576,6 +585,8 @@ export class DiamondSafe extends BaseContract {
 
     requiredBalance(overrides?: CallOverrides): Promise<[BigNumber]>;
 
+    rewardToken(overrides?: CallOverrides): Promise<[string]>;
+
     sellPrice(overrides?: CallOverrides): Promise<[BigNumber]>;
 
     setFeeSplit(
@@ -725,6 +736,8 @@ export class DiamondSafe extends BaseContract {
 
   requiredBalance(overrides?: CallOverrides): Promise<BigNumber>;
 
+  rewardToken(overrides?: CallOverrides): Promise<string>;
+
   sellPrice(overrides?: CallOverrides): Promise<BigNumber>;
 
   setFeeSplit(
@@ -864,6 +877,8 @@ export class DiamondSafe extends BaseContract {
     renounceOwnership(overrides?: CallOverrides): Promise<void>;
 
     requiredBalance(overrides?: CallOverrides): Promise<BigNumber>;
+
+    rewardToken(overrides?: CallOverrides): Promise<string>;
 
     sellPrice(overrides?: CallOverrides): Promise<BigNumber>;
 
@@ -1245,6 +1260,8 @@ export class DiamondSafe extends BaseContract {
 
     requiredBalance(overrides?: CallOverrides): Promise<BigNumber>;
 
+    rewardToken(overrides?: CallOverrides): Promise<BigNumber>;
+
     sellPrice(overrides?: CallOverrides): Promise<BigNumber>;
 
     setFeeSplit(
@@ -1389,6 +1406,8 @@ export class DiamondSafe extends BaseContract {
     ): Promise<PopulatedTransaction>;
 
     requiredBalance(overrides?: CallOverrides): Promise<PopulatedTransaction>;
+
+    rewardToken(overrides?: CallOverrides): Promise<PopulatedTransaction>;
 
     sellPrice(overrides?: CallOverrides): Promise<PopulatedTransaction>;
 

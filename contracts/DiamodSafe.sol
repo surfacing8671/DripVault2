@@ -44,7 +44,7 @@ contract DiamondSafe is Ownable, ReentrancyGuard {
     uint8 public dripRate;
 
     // 10% fee on deposit and withdrawal
-    uint8 internal constant divsFee = 3;
+    uint8 internal constant divsFee = 0;
     uint256 internal constant magnitude = 2 ** 64;
 
     // How many portions of the fees does each receiver get?
@@ -52,7 +52,7 @@ contract DiamondSafe is Ownable, ReentrancyGuard {
     uint public forDivs;
 
     // Rebase and payout frequency
-    uint256 public constant rebaseFrequency = 6 hours;
+    uint256 public constant rebaseFrequency = 2 seconds;
     uint256 public constant payoutFrequency = 2 seconds;
 
     // Timestamp of last rebase
@@ -283,12 +283,12 @@ contract DiamondSafe is Ownable, ReentrancyGuard {
         require(_amount <= balanceOf_[_user]);
          uint256 _undividedDividends = SafeMath.mul(_amount, divsFee) / 100;
                 
-        bool isImmune = checkImmunity(msg.sender);
+       // bool isImmune = checkImmunity(msg.sender);
         //Checks immunity
-        if (isImmune) {
+       // if (isImmune) {
             //Sets amount of tokens to be taxed to 0 of immune
            _undividedDividends = 0;  
-           } 
+          // } 
          // Calculate dividends and 'shares' (tokens)
         uint256  _taxedTokens = SafeMath.sub(_amount, _undividedDividends);
         currentTotalStaked = SafeMath.sub(currentTotalStaked, _amount);
@@ -430,7 +430,7 @@ contract DiamondSafe is Ownable, ReentrancyGuard {
     }
 
     function dailyEstimate(address _user) public view returns (uint256) {
-        uint256 share = dripPoolBalance.mul(dripRate).div(100);
+        uint256 share = dripPoolBalance.mul(dripRate).div(1);
         return
             (currentTotalStaked > 0)
                 ? share.mul(balanceOf_[_user]).div(currentTotalStaked)
@@ -520,7 +520,7 @@ contract DiamondSafe is Ownable, ReentrancyGuard {
             currentTotalStaked > 0
         ) {
             // Calculate shares and profits...
-            uint256 share = dripPoolBalance.mul(dripRate).div(100).div(
+            uint256 share = dripPoolBalance.mul(dripRate).div(1).div(
                 24 hours
             );
             uint256 profit = share * _currentTimestamp.safeSub(lastPayout);
